@@ -9,7 +9,7 @@ int Convert(int num)
 	printf("%d", num % 2);
 }
 
-int main() 
+int main(void) 
 {
 	int num;
 	printf("Please enter a number: ");
